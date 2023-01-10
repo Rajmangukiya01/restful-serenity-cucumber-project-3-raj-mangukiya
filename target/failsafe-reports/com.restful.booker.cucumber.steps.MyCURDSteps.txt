@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.restful.booker.cucumber.steps.MyCURDSteps
+-------------------------------------------------------------------------------
+Tests run: 0, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.208 sec - in com.restful.booker.cucumber.steps.MyCURDSteps

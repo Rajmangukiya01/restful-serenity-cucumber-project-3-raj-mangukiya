@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Restful booker with tags","This test will return a correct response code 200 when GET request is used to get booking ids","SUCCESS","2023-01-10T21:34:01.424Z[Europe/London]","0.0","13.34"
+"Restful booker with tags","This method will get error code 404 when a method is use without providing resource","SUCCESS","2023-01-10T21:34:14.971Z[Europe/London]","0.0","0.77"
+"Restful booker with tags","This test will provide an error code 403 when user doesn't provide authentication","SUCCESS","2023-01-10T21:34:15.752Z[Europe/London]","0.0","0.5"

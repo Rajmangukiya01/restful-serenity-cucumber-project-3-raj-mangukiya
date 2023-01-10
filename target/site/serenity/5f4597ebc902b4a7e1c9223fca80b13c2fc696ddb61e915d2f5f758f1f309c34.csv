@@ -1,0 +1,2 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Restful booker with tags","This test will return a correct response code 200 when GET request is used to get booking ids","SUCCESS","2023-01-10T21:34:01.424Z[Europe/London]","0.0","13.34"
